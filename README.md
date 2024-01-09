@@ -1,1 +1,3 @@
-# anomaly_detection_using_2dconv
+### 텐서플로우를 이용해 멀티채널(15ch)을 사용하는 2d 컨볼루션 신경망
+### ResNet 기반의 전이학습
+### 비디오의 프레임 체크
